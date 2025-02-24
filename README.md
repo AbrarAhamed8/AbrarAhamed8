@@ -1,4 +1,4 @@
-👋 Hi, I’m @AbrarAhamed8
+👋 Hi, I’m @AbrarAhamed
 🎓 BCA Student | 💻 Aspiring Software Developer
 💻 Passionate about Web Development, Python & Machine Learning
 🔭 Exploring Open Source & Competitive Programming
