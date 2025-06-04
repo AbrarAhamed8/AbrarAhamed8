@@ -1,16 +1,5 @@
-👋 Hi, I’m @AbrarAhamed
-🎓 BCA Student | 💻 Aspiring Software Developer
-💻 Passionate about Web Development, Python & Machine Learning
-🔭 Exploring Open Source & Competitive Programming
-📫 Reach me at: abrarahamedk88@gmail.com
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Abrarahamed K</h1>
-<h3 align="center">💻 A passionate Frontend Developer from India</h3>
+<h3 align="center">💻 A passionate Software Developement Passionate about Frontend Developer 🔭 Exploring Open Source & Competitive Programming</h3>
 
 - 🔭 I’m currently working on [AI Image Generator]([View Project](https://github.com/AbrarAhamed8/ai-image-generator))
 
